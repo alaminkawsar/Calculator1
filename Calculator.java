@@ -9,3 +9,7 @@ public class Calculator{
 	}
 	
 }
+double Addition(double a,double b)
+{
+	return a+b;
+}
